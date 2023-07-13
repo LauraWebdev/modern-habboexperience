@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<d>
+	
+	<scene id="1">
+
+		<text id="1" col="1" owner=""><![CDATA[ZZZzzz...]]></text>
+		<text id="2" col="1" owner="Chaplin"><![CDATA[ZZzz...arf...grunt! Chi è?!]]></text>
+		<text id="3" col="1" owner="Chaplin"><![CDATA[Ah...sei tu!]]></text>
+		<text id="4" col="1" owner="Chaplin"><![CDATA[Ciao! Sono Chaplin.]]></text>
+		<text id="5" col="1" owner="Chaplin"><![CDATA[Immagino tu sia un appena arrivato e ancora senza un Habbo.]]></text>
+		<text id="6" col="1" owner="Chaplin"><![CDATA[Un Habbo come me, intendo :)]]></text>
+		<text id="7" col="1" owner="Chaplin"><![CDATA[Ok, seguimi!]]></text>
+		<text id="8" col="2" owner="Frank"><![CDATA[Benvenuto in Habbo Hotel! Le auguro un piacevole soggiorno!]]></text>
+		<text id="9" col="1" owner="Chaplin"><![CDATA[Grazie, Frank. È l'UNDICESIMO soggiorno questa settimana :)]]></text>
+
+	</scene>
+
+	<scene id="2">
+
+		<text id="1" col="1" owner="Chaplin"><![CDATA[Ciao Luca_MC! Sei il primo... benvenuto!]]></text>
+		<text id="2" col="2" owner="Luca_MC"><![CDATA[Come butta, Chap? ho ricevuto il tuo messaggio... ed eccomi qua!]]></text>
+		<text id="3" col="2" owner="Luca_MC"><![CDATA[Ciao anche a te dietro lo schermo!]]></text>
+		<text id="4" col="4" owner="Lucia"><![CDATA[Girl-Commando pronto e in posizione, Chaplin]]></text>
+		<text id="5" col="1" owner="Chaplin"><![CDATA[Grande! Allora, chi inizia?]]></text>
+		<text id="6" col="3" owner="Silvia*B"><![CDATA[Io! Vado a tuffarmi al Lido!]]></text>
+		<text id="7" col="4" owner="Lucia"><![CDATA[Ehm... io ho la mia solita stanza disordinata :)]]></text>
+		<text id="8" col="2" owner="Luca_MC"><![CDATA[Io vado a screcciare a una festa.]]></text>
+	
+	</scene>
+
+	<scene id="3">
+
+	<text id="1" col="6" owner="Boomerang"><![CDATA[Howwww!! Arf arf…]]></text>
+	<text id="2" col="4" owner="Lucia"><![CDATA[Ciao Boomerang, cucciolone!]]></text>
+	<text id="3" col="4" owner="Lucia"><![CDATA[Benvenuto nella MIA stanza :)]]></text>
+	<text id="4" col="1" owner="Chaplin"><![CDATA[Wow, è accogliente e pure in ordine... quasi :)]]></text>
+	<text id="5" col="1" owner="Chaplin"><![CDATA[Bibite! Habbo Cola!]]></text>
+	<text id="6" col="4" owner="Lucia"><![CDATA[Serviti, Chap. E' fresca e gratis.]]></text>
+	<text id="7" col="1" owner="Chaplin"><![CDATA[Hey, ma non è qui che tenevi quello strano aggeggio?]]></text>
+	<text id="8" col="4" owner="Lucia"><![CDATA[Eh sì! Guarda che ho nella mano.]]></text>
+	<text id="9" col="4" owner="Lucia"><![CDATA[Ecco qui. Habbo Rollers a volontà!]]></text>
+	<text id="10" col="1" owner="Chaplin"><![CDATA[:)]]></text>
+	<text id="11" col="4" owner="Lucia"><![CDATA[Li ho vinti a una maratona :)]]></text>
+	<text id="12" col="4" owner="Lucia"><![CDATA[Proviamoli con il nuovo singolo degli Smiling Headbangerz.]]></text>
+	<text id="13" col="6" owner="Boomerang"><![CDATA[Wuuuff!]]></text>
+	<text id="14" col="4" owner="Lucia"><![CDATA[Roll&Rock... sì!]]></text>
+	<text id="15" col="1" owner="Chaplin"><![CDATA[Habb-core!]]></text>
+	<text id="16" col="1" owner="Chaplin"><![CDATA[Dai Boomie, vieni con noi!]]></text>
+	<text id="17" col="6" owner="Boomerang"><![CDATA[Auuuuuu!]]></text>	<text id="18" col="1" owner="Chaplin"><![CDATA[Sei un pò scarso, cagnetto.]]></text>
+	<text id="19" col="1" owner="Chaplin"><![CDATA[*Ha il capogiro*]]></text>
+	<text id="20" col="1" owner="Chaplin"><![CDATA[Woah! Ho lo stomaco debole, mi sa :(]]></text>
+	<text id="21" col="4" owner="Lucia"><![CDATA[Sei un tenerone, Chap! :)]]></text>
+	<text id="22" col="4" owner="Lucia"><![CDATA[Adesso però devo andare...]]></text>
+	<text id="23" col="4" owner="Lucia"><![CDATA[Ehi, spero ti sia piaciuta la mia stanza.]]></text>
+	<text id="24" col="4" owner="Lucia"><![CDATA[Non vedo l'ora di vedere la tua! :)]]></text>
+	<text id="25" col="4" owner="Lucia"><![CDATA[Ciao!]]></text>
+	<text id="26" col="1" owner="Chaplin"><![CDATA[Grazie Lucia! :)]]></text>
+	<text id="27" col="1" owner="Chaplin"><![CDATA[Vuoi entrare in Habbo Hotel e creare il tuo personaggio?]]></text>
+	<text id="28" col="1" owner="Chaplin"><![CDATA[Basta cliccare sul teletrasporto.]]></text>
+	<text id="29" col="1" owner="Chaplin"><![CDATA[Oppure puoi continuare il tour guidato]]></text>
+
+	</scene>
+
+
+	<scene id="4">
+
+	<text id="1" col="1" owner="Chaplin"><![CDATA[Ehi Luca_MC, è pienissimo qui!]]></text>
+	<text id="2" col="2" owner="Luca_MC"><![CDATA[Come sempre! Adesso preparati...]]></text> 
+	<text id="3" col="2" owner="Luca_MC"><![CDATA[È ora di far festa!]]></text>
+	<text id="4" col="6" owner="AlienXYZ"><![CDATA[La tua stanza è bellissima! Saluti dalle isole Fiji!]]></text> 
+	<text id="5" col="2" owner="Luca_MC"><![CDATA[Roba da matti, ragazzi! Forza che si balla!]]></text>
+	<text id="6" col="2" owner="Luca_MC"><![CDATA[Habbo, salutate Chap e il suo amico/a!]]></text>
+	<text id="7" col="5" owner="Michele!!"><![CDATA[Ciao!]]></text>
+	<text id="8" col="3" owner="Eliz14"><![CDATA[Ciao a tutti!]]></text>
+	<text id="9" col="1" owner="Chaplin"><![CDATA[Veramente, preferisco gli alberi di Natale alla tecno:)]]></text>
+	<text id="10" col="3" owner="Eliz14"><![CDATA[:O]]></text>
+	<text id="11" col="4" owner="MaryPerSempre"><![CDATA[:O!]]></text>
+	<text id="12" col="2" owner="Luca_MC"><![CDATA[Argh! Non fare casini con il mio stereo, Chap!]]></text> 
+	<text id="13" col="2" owner="Luca_MC"><![CDATA[Ma non c'è problema. Vai con le rime!]]></text> 
+	<text id="14" col="1" owner="Chaplin"><![CDATA[Yo!]]></text> 
+	<text id="15" col="2" owner="Luca_MC"><![CDATA[Sono un MC virtuale, dò agli Habbo feste da matti]]></text>
+	<text id="16" col="4" owner="EvelineZ"><![CDATA[Ci fai correre come ratti, ma in quanto a Crediti niente fatti]]></text>
+	<text id="17" col="2" owner="Luca_MC"><![CDATA[Ehi Habbo non mi scocciare, noi siamo qui sol per ballare]]></text> 
+	<text id="18" col="7" owner=".:Janina:."><![CDATA[Forse questo è ciò che tu senti, ma senza furni sei tra i perdenti]]></text> 
+	<text id="19" col="2" owner="Luca_MC"><![CDATA[Oh cucciolina quanto sei dura, ragioni pure un pò da immatura]]></text> 
+	<text id="20" col="5" owner="Mickey!!"><![CDATA[Non lasciar che comandi l'amore, per favore abbi pudore]]></text> 
+	<text id="21" col="1" owner="Chaplin"><![CDATA[Questa festa è una liturgia, mi elettrizza di energia! :)]]></text> 
+	<text id="22" col="1" owner="Chaplin"><![CDATA[Adesso però dobbiamo andare!]]></text> 
+	<text id="23" col="1" owner="Chaplin"><![CDATA[Se vuoi entrare in Habbo Hotel clicca il teletrasporto.]]></text> 
+	<text id="24" col="1" owner="Chaplin"><![CDATA[Oppure puoi continuare il tour.]]></text>
+	
+	</scene>
+
+	<scene id="5">
+	<text id="1" col="5" owner="Bomb-Diver"><![CDATA[HABBOOOOOM!]]></text>
+	<text id="2" col="1" owner="Chaplin"><![CDATA[Pazzesco! Non avrei mai il coraggio.]]></text> 
+	<text id="3" col="3" owner="Silvia*B"><![CDATA[Eddai! E' l'emozione del tuffo!]]></text> 
+	<text id="4" col="3" owner="Silvia*B"><![CDATA[A me piace da matti! :)]]></text> 
+	<text id="5" col="1" owner="Chaplin"><![CDATA[Io preferisco una nuotata in compagnia :)]]></text> 
+	<text id="6" col="3" owner="Silvia*B"><![CDATA[Un raro momento di gloria...]]></text> 
+	<text id="7" col="3" owner="Silvia*B"><![CDATA[Le bionde non sono solo carine, qui ci vuole abilità.]]></text> 
+	<text id="8" col="3" owner="Silvia*B"><![CDATA[Allora... si va...!]]></text> 
+	<text id="9" col="6" owner="Jenny16"><![CDATA[Splash-tastico!]]></text>
+	<text id="10" col="5" owner="LucasDR"><![CDATA[Mi hai fulminato il cuore!]]></text> 
+	<text id="11" col="3" owner="Silvia*B"><![CDATA[Fatti una dormita, ragazzino :)]]></text>
+	<text id="12" col="3" owner="Silvia*B"><![CDATA[Allora ti è piaciuto, Chap?]]></text>
+	<text id="13" col="1" owner="Chaplin"><![CDATA[Da togliere il fiato :)]]></text>
+	<text id="14" col="3" owner="Silvia*B"><![CDATA[Grazie! Ma ora mi sto già annoiando...]]></text>
+	<text id="15" col="3" owner="Silvia*B"><![CDATA[Ragazzi, andiamo a fare una sfilata di moda da me?]]></text> 
+	<text id="16" col="4" owner="Angela91"><![CDATA[Siiii!]]></text>
+	<text id="17" col="6" owner="Maradonino"><![CDATA[W le modelle!]]></text> 
+	<text id="18" col="3" owner="Silvia*B"><![CDATA[Ok, ci vediamo nella mia stanza.]]></text> 
+	<text id="19" col="2" owner="CoolDude"><![CDATA[Andiamo!]]></text> 
+	<text id="20" col="5" owner="Lally"><![CDATA[Voglio essere una star!]]></text> 
+	<text id="21" col="1" owner="Chaplin"><![CDATA[Wow, si è svuotato velocemente, eh?]]></text> 
+	<text id="22" col="1" owner="Chaplin"><![CDATA[Gli Habbo a volte sono così inquieti.]]></text> 
+	<text id="23" col="2" owner="Loo-nely Habbo"><![CDATA[Argh, cos'è successo? Ero andato in bagno]]></text> 
+	<text id="24" col="2" owner="Loo-nely Habbo"><![CDATA[Aspettatemi... Voglio far festa pure io!]]></text> 
+	<text id="25" col="1" owner="Chaplin"><![CDATA[Proprio così :)]]></text> 
+	<text id="26" col="1" owner="Chaplin"><![CDATA[E adesso, vuoi fare splash in Habbo Hotel?]]></text> 
+	<text id="27" col="1" owner="Chaplin"><![CDATA[Clicca sull'anatra.]]></text> 
+	<text id="28" col="1" owner="Chaplin"><![CDATA[Oppure puoi continuare il tour guidato.]]></text>
+
+	</scene>
+
+	<scene id="6">
+
+	<text id="1" col="1" owner="Chaplin"><![CDATA[Hai appena avuto un piccolo assaggio di Habbo Hotel...]]></text>
+	<text id="2" col="1" owner="Chaplin"><![CDATA[ ...ma dentro ti aspetta molto di più!]]></text>
+	<text id="3" col="1" owner="Chaplin"><![CDATA[Essere Habbo è facile.]]></text>
+	<text id="4" col="1" owner="Chaplin"><![CDATA[Clicca sul tasto "Entra Qui"...]]></text>
+	<text id="5" col="1" owner="Chaplin"><![CDATA[...crea il tuo habbo...]]></text>
+	<text id="6" col="1" owner="Chaplin"><![CDATA[...usa il Navigatore per esplorare l'hotel e costruire stanze...]]></text>
+	<text id="7" col="1" owner="Chaplin"><![CDATA[...e la console per conoscere nuovi amici.]]></text>
+	<text id="8" col="1" owner="Chaplin"><![CDATA[Tocca a te scoprire tutto il resto!]]></text>
+	<text id="9" col="1" owner="Chaplin"><![CDATA[E io?]]></text>
+	<text id="10" col="1" owner="Chaplin"><![CDATA[Beh, dopo tutto questo giro ho bisogno di riposo...]]></text>
+	<text id="11" col="1" owner="Chaplin"><![CDATA[...e di sogni :)]]></text>
+	<text id="12" col="1" owner="Chaplin"><![CDATA[Ci si vede in Habbo Hotel.]]></text>
+	<text id="13" col="1" owner="Chaplin"><![CDATA[Vieni con noi.]]></text>
+
+	</scene>
+
+	<scene id="99">
+	<text id="1" col="1" owner="Chaplin"><![CDATA[Oppure seguimi al Gran Finale.]]></text>
+	</scene>
+
+	</d>
+
+
