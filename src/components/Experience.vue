@@ -58,7 +58,7 @@ onMounted(() => {
     player.style.width = "650px";
     player.style.height = "450px";
     domPlayer.value.appendChild(player);
-    player.load("/experience/main.swf?language=" + props.language);
+    player.load("/modern-habboexperience/experience/main.swf?language=" + props.language);
 
     console.log("[Experience] Done");
 });

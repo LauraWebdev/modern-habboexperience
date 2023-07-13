@@ -50,10 +50,10 @@ a:hover:after {
 @font-face {
   font-family: "Volter";
   font-weight: normal;
-  src: url("./Volter_9pt_Standard.ttf");
+  src: url("/modern-habboexperience/Volter_9pt_Standard.ttf");
 }
 @font-face {
   font-family: "Volter";
   font-weight: bold;
-  src: url("./Volter_9pt_Bold.ttf");
+  src: url("/modern-habboexperience/Volter_9pt_Bold.ttf");
 }
