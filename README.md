@@ -3,7 +3,8 @@ The Habbo Experience was an interactive tutorial for Habbo Hotel. Made in 2005, 
 
 This project uses [Ruffle](https://github.com/ruffle-rs/ruffle) to make this experience usable in modern browsers without the need of Flash Player.
 
-[Open Modern Habbo Experience](https://laurawebdev.github.io/modern-habboexperience)
+[Open Modern Habbo Experience](http://habboexperience.laura.media/)
+**Note:** Github currently does not allow to load certain files needed, so it is hosted on a private server.
 
 ## Setup
 - ``npm install``
