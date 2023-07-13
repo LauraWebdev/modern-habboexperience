@@ -47,7 +47,7 @@ onMounted(() => {
         "logLevel": "warn",
         "warnOnUnsupportedContent": true,
         "quality": "high",
-        "base": "/experience",
+        "base": "/modern-habboexperience/experience",
         "contextMenu": "off",
         "showSwfDownload": false,
         "splashScreen": false,
