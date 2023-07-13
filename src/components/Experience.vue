@@ -24,7 +24,7 @@ export const Languages = {
 </script>
 
 <script setup>
-import {onMounted, reactive, ref} from "vue";
+import {onMounted, ref} from "vue";
 
 let ruffle = null;
 let player = null;
@@ -69,6 +69,6 @@ onMounted(() => {
     background: #000;
     border-radius: 10px;
     overflow: hidden;
-    box-shadow: 0px 0px 50px 50px #000;
+    box-shadow: 0 0 50px 50px #000;
 }
 </style>

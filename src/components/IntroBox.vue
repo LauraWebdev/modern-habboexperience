@@ -104,7 +104,7 @@ const languageToHotel = (language) => {
     padding: 20px;
     border-radius: 7px;
     border: 1px solid #000;
-    box-shadow: 1px 1px 0px rgba(0,0,0,0.2);
+    box-shadow: 1px 1px 0 rgba(0,0,0,0.2);
 }
 .intro-box .box .header, .intro-box .box p {
     text-align: center;
