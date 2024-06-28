@@ -1,143 +1,286 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<d>
-	
-<scene id="1">
-<text id="1" col="1" owner="Chaplin"><![CDATA[ZZZzzz...]]></text>
-<text id="2" col="1" owner="Chaplin"><![CDATA[ZZzz...snork...grunt! Wie is daar?!]]></text>
-<text id="3" col="1" owner="Chaplin"><![CDATA[Ah...Jij bent het]]></text>
-<text id="4" col="1" owner="Chaplin"><![CDATA[Hoi! Ik ben Chaplin]]></text>
-<text id="5" col="1" owner="Chaplin"><![CDATA[Je hebt zeker nog geen Habbo aangemaakt]]></text>
-<text id="6" col="1" owner="Chaplin"><![CDATA[Een Habbo, zoals ik, bedoel ik :)]]></text>
-<text id="7" col="1" owner="Chaplin"><![CDATA[Okay, volg mij maar]]></text>
-<text id="8" col="2" owner="Frank"><![CDATA[Welkom in Habbo Hotel, meneer, veel plezier!]]></text>
-<text id="9" col="1" owner="Chaplin"><![CDATA[Oh thanks, 't is pas mijn ELFDE keer deze week :)]]></text>
-</scene>
-
-<scene id="2">
-<text id="1" col="1" owner="Chaplin"><![CDATA[Hey, MC_Luther! Jij bent de eerste, man]]></text>
-<text id="2" col="2" owner="MC_Luther"><![CDATA[What’s up, Chap? Ik kreeg je bericht, hier ben ik dan]]></text>
-<text id="3" col="2" owner="MC_Luther"><![CDATA[Hé daar! Welkom in Habbo Hotel!]]></text>
-<text id="4" col="4" owner="Jess"><![CDATA[De ladies zijn gearriveerd, Chaplin]]></text>
-<text id="5" col="1" owner="Chaplin"><![CDATA[Tof! Nou, wie wil er beginnen?]]></text>
-<text id="6" col="3" owner="Faith*B"><![CDATA[Ik! Ik neem je mee schoonspringen!]]></text>
-<text id="7" col="4" owner="Jess"><![CDATA[Mm... Mijn kamer is een bende... Zien? :)]]></text>
-<text id="8" col="2" owner="MC_Luther"><![CDATA[Ik moet zometeen Dj-en...]]></text>
-</scene>
-
-<scene id="3">
-<text id="1" col="6" owner="Boomerang"><![CDATA[Wrrrhoef!! waf waf...]]></text>
-<text id="2" col="4" owner="Jess"><![CDATA[Hallo Boomerang, lieffie!]]></text>
-<text id="3" col="4" owner="Jess"><![CDATA[Welkom in mijn crib. 100% mijn style! :)]]></text>
-<text id="4" col="1" owner="Chaplin"><![CDATA[Knus! En euh... best netjes *ahum*]]></text>
-<text id="5" col="1" owner="Chaplin"><![CDATA[Cool! Habbo Cola!]]></text>
-<text id="6" col="4" owner="Jess"><![CDATA[Neem maar, Chaps, het staat ervoor]]></text>
-<text id="7" col="1" owner="Chaplin"><![CDATA[Hey, Waar heb je dat tech-ding verstopt?]]></text>
-<text id="8" col="4" owner="Jess"><![CDATA[Mm... effe mijn hand checken]]></text>
-<text id="9" col="4" owner="Jess"><![CDATA[Daar. Een kudde Habbo Rollers]]></text>
-<text id="10" col="1" owner="Chaplin"><![CDATA[Cool :)]]></text>
-<text id="11" col="4" owner="Jess"><![CDATA[Gewonnen in een race :)]]></text>
-<text id="12" col="4" owner="Jess"><![CDATA[Effe rollen op de laatste Smiling Headbangerz’ single]]></text>
-<text id="13" col="6" owner="Boomerang"><![CDATA[Whoeff!]]></text>
-<text id="14" col="4" owner="Jess"><![CDATA[Roll 'n Rock... Jeeuh!]]></text>
-<text id="15" col="1" owner="Chaplin"><![CDATA[Habb-core!]]></text>
-<text id="16" col="1" owner="Chaplin"><![CDATA[Komop Boomie, meedoen!]]></text>
-<text id="17" col="6" owner="Boomerang"><![CDATA[Aoeoeoeoeh!]]></text>
-<text id="18" col="1" owner="Chaplin"><![CDATA[Suffe hond, suf...]]></text>
-<text id="19" col="1" owner="Chaplin"><![CDATA[*is duizelig*]]></text>
-<text id="20" col="1" owner="Chaplin"><![CDATA[Woh! Mijn maag is niet zo sterk :(]]></text>
-<text id="21" col="4" owner="Jess"><![CDATA[Je bent een watje, hahaha :)]]></text>
-<text id="22" col="4" owner="Jess"><![CDATA[Maar euh, Chaps, ik moet gaan...]]></text>
-<text id="23" col="4" owner="Jess"><![CDATA[Hé daar! Hoop dat je je vermaakt hebt!]]></text>
-<text id="24" col="4" owner="Jess"><![CDATA[Ik kom graag 'ns in jouw kamer langs :)]]></text>
-<text id="25" col="4" owner="Jess"><![CDATA[Doei!]]></text>
-<text id="26" col="1" owner="Chaplin"><![CDATA[Thanks Jess! :)]]></text>
-<text id="27" col="1" owner="Chaplin"><![CDATA[Zo, wil je inchecken en je eigen Habbo maken?]]></text>
-<text id="28" col="1" owner="Chaplin"><![CDATA[Klik dan op de teleport]]></text>
-<text id="29" col="1" owner="Chaplin"><![CDATA[Je kunt ook verder met de rondleiding]]></text>
-</scene>
-
-<scene id="4">
-<text id="1" col="1" owner="Chaplin"><![CDATA[Yo! MC_Luther, je kamer is vol, man!]]></text> 
-<text id="2" col="2" owner="MC_Luther"><![CDATA[Tuurlijk! Ben je d'r klaar voor?]]></text> 
-<text id="3" col="2" owner="MC_Luther"><![CDATA[Party people in da house!!]]></text> 
-<text id="4" col="6" owner="AlienXYZ"><![CDATA[Cool room! Greetings from Fiji Islands!]]></text> 
-<text id="5" col="2" owner="MC_Luther"><![CDATA[W00T! Hier gebeurt het!]]></text>
-<text id="6" col="2" owner="MC_Luther"><![CDATA[Luitjes, zeg ff hoi tegen Chap en z'n vriend!]]></text>
-<text id="7" col="5" owner="Mickey!!"><![CDATA[Hoooi!]]></text>
-<text id="8" col="3" owner="Liz14"><![CDATA[Hallo allemaal!]]></text>
-<text id="9" col="1" owner="Chaplin"><![CDATA[Tss, ik wil een kerstboom - geen techno :)]]></text>
-<text id="10" col="3" owner="Liz14"><![CDATA[:O]]></text>
-<text id="11" col="4" owner="EvelineZ"><![CDATA[:O!]]></text>
-<text id="12" col="2" owner="MC_Luther"><![CDATA[Aaargh! Chap, niet aan mijn draaitafel zitten!]]></text> 
-<text id="13" col="2" owner="MC_Luther"><![CDATA[Geen stress, we gaan wel rappen]]></text> 
-<text id="14" col="1" owner="Chaplin"><![CDATA[Ik ben er klaar voor!]]></text> 
-<text id="15" col="2" owner="MC_Luther"><![CDATA[Ik ben de online dj en ik draai me suf]]></text>
-<text id="16" col="4" owner="EvelineZ"><![CDATA[Yo, je maakt een vet feest, en dat is geen bluf]]></text>
-<text id="17" col="2" owner="MC_Luther"><![CDATA[Yeah, we zijn hier voor de pret, om te chillen en te dollen]]></text> 
-<text id="18" col="7" owner=".:Janina:."><![CDATA[Dat kun jij wel zeggen, maar ik laat mijn Credits rollen]]></text> 
-<text id="19" col="2" owner="MC_Luther"><![CDATA[Oh baby jij bent koud, als je alleen van meubi houdt]]></text> 
-<text id="20" col="5" owner="Mickey!!"><![CDATA[Ben je geen toffe peer, zien we je liever niet meer]]></text> 
-<text id="21" col="1" owner="Chaplin"><![CDATA[Ik ga hier zo uit mijn pan, ik kwijl ervan. LOL!!! :)]]></text> 
-<text id="22" col="1" owner="Chaplin"><![CDATA[Maar goed, tijd om te gaan]]></text> 
-<text id="23" col="1" owner="Chaplin"><![CDATA[Plop naar binnen, via de teleport]]></text> 
-<text id="24" col="1" owner="Chaplin"><![CDATA[Je kunt ook verder met de rondleiding]]></text>
-</scene>
-
-<scene id="5">
-<text id="1" col="5" owner="Bomb-Diver"><![CDATA[HABBOOOOOM!]]></text>
-<text id="2" col="1" owner="Chaplin"><![CDATA[Eng! Ik durf nooit van de hoge duikplank]]></text> 
-<text id="3" col="3" owner="Faith*B"><![CDATA[Doe niet zo raar, da's juist de kick!]]></text> 
-<text id="4" col="3" owner="Faith*B"><![CDATA[Ik doe niets liever :)]]></text> 
-<text id="5" col="1" owner="Chaplin"><![CDATA[Ik duik liever in een boek :)]]></text> 
-<text id="6" col="3" owner="Faith*B"><![CDATA[Goed kijken allemaal]]></text> 
-<text id="7" col="3" owner="Faith*B"><![CDATA[Ik ben blond, maar dat is juist mijn talent!]]></text> 
-<text id="8" col="3" owner="Faith*B"><![CDATA[Daar ga ik!]]></text> 
-<text id="9" col="6" owner="Jenny16"><![CDATA[Splash-tastic!]]></text>
-<text id="10" col="5" owner="LucasDR"><![CDATA[Je slaat in als bliksem, schatje!!]]></text> 
-<text id="11" col="3" owner="Faith*B"><![CDATA[Ben je jaloers, hihihi :)]]></text>
-<text id="12" col="3" owner="Faith*B"><![CDATA[En wat vond jij, Chap?]]></text>
-<text id="13" col="1" owner="Chaplin"><![CDATA[Adembenemend :)]]></text>
-<text id="14" col="3" owner="Faith*B"><![CDATA[Cool! Maar ik verveel me...]]></text>
-<text id="15" col="3" owner="Faith*B"><![CDATA[Wie gaat mee naar mijn modellenwedstrijd?]]></text> 
-<text id="16" col="4" owner="Angela91"><![CDATA[Jaaaah!!]]></text>
-<text id="17" col="6" owner="HugoSanchez"><![CDATA[Ik! Ik ben een model-Habbo ;)]]></text> 
-<text id="18" col="3" owner="Faith*B"><![CDATA[Okay, zie je daar]]></text> 
-<text id="19" col="2" owner="CoolDude"><![CDATA[Iedereen is een ster!!]]></text> 
-<text id="20" col="5" owner="Lally"><![CDATA[*Bling bling*]]></text> 
-<text id="21" col="1" owner="Chaplin"><![CDATA[En ineens is iedereen weg]]></text> 
-<text id="22" col="1" owner="Chaplin"><![CDATA[Habbo's zijn ZO ongeduldig]]></text> 
-<text id="23" col="2" owner="Loo-nely Habbo"><![CDATA[Huh? Waar zijn ze? Ik was op het toilet...]]></text> 
-<text id="24" col="2" owner="Loo-nely Habbo"><![CDATA[Waaachtt... Ik wil ook feesten!]]></text> 
-<text id="25" col="1" owner="Chaplin"><![CDATA[Ja, precies :)]]></text> 
-<text id="26" col="1" owner="Chaplin"><![CDATA[Wil je een duik nemen in het Hotel?]]></text> 
-<text id="27" col="1" owner="Chaplin"><![CDATA[Klik dan op de eend]]></text> 
-<text id="28" col="1" owner="Chaplin"><![CDATA[Je kunt ook verder met de rondleiding]]></text>
-</scene>
-
-<scene id="6">
-<text id="1" col="1" owner="Chaplin"><![CDATA[Je hebt een stukje Habbo gezien...]]></text>
-<text id="2" col="1" owner="Chaplin"><![CDATA[...maar het echte werk wacht binnen op je!!]]></text>
-<text id="3" col="1" owner="Chaplin"><![CDATA[Het is heel eenvoudig]]></text>
-<text id="4" col="1" owner="Chaplin"><![CDATA[Klik maar op de Check In knop...]]></text>
-<text id="5" col="1" owner="Chaplin"><![CDATA[...maak je eigen Habbo...]]></text>
-<text id="6" col="1" owner="Chaplin"><![CDATA[...gebruik de Navigator om je te bewegen en een kamer te maken...]]></text>
-<text id="7" col="1" owner="Chaplin"><![CDATA[...en de Console om contact te houden met je vrienden]]></text>
-<text id="8" col="1" owner="Chaplin"><![CDATA[Verder ligt de Habbo wereld voor je open]]></text>
-<text id="9" col="1" owner="Chaplin"><![CDATA[En ik?]]></text>
-<text id="10" col="1" owner="Chaplin"><![CDATA[Na dit avontuur moet ik even rusten...]]></text>
-<text id="11" col="1" owner="Chaplin"><![CDATA[...en dromen]]></text>
-<text id="12" col="1" owner="Chaplin"><![CDATA[Veel plezier in het Habbo Hotel]]></text>
-<text id="13" col="1" owner="Chaplin"><![CDATA[Tot zienszzzzzz...]]></text>
-</scene>
-
-<scene id="99">
-<text id="1" col="1" owner="Chaplin"><![CDATA[Of volg mij tot het eind]]></text>
-</scene>
-
-</d>
-
-
-
-
-
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+
+<d>
+
+	
+
+<scene id="1">
+
+<text id="1" col="1" owner="Chaplin"><![CDATA[ZZZzzz...]]></text>
+
+<text id="2" col="1" owner="Chaplin"><![CDATA[ZZzz...snork...grunt! Wie is daar?!]]></text>
+
+<text id="3" col="1" owner="Chaplin"><![CDATA[Ah...Jij bent het]]></text>
+
+<text id="4" col="1" owner="Chaplin"><![CDATA[Hoi! Ik ben Chaplin]]></text>
+
+<text id="5" col="1" owner="Chaplin"><![CDATA[Je hebt zeker nog geen Habbo aangemaakt]]></text>
+
+<text id="6" col="1" owner="Chaplin"><![CDATA[Een Habbo, zoals ik, bedoel ik :)]]></text>
+
+<text id="7" col="1" owner="Chaplin"><![CDATA[Okay, volg mij maar]]></text>
+
+<text id="8" col="2" owner="Frank"><![CDATA[Welkom in Habbo Hotel, meneer, veel plezier!]]></text>
+
+<text id="9" col="1" owner="Chaplin"><![CDATA[Oh thanks, 't is pas mijn ELFDE keer deze week :)]]></text>
+
+</scene>
+
+
+
+<scene id="2">
+
+<text id="1" col="1" owner="Chaplin"><![CDATA[Hey, MC_Luther! Jij bent de eerste, man]]></text>
+
+<text id="2" col="2" owner="MC_Luther"><![CDATA[What’s up, Chap? Ik kreeg je bericht, hier ben ik dan]]></text>
+
+<text id="3" col="2" owner="MC_Luther"><![CDATA[Hé daar! Welkom in Habbo Hotel!]]></text>
+
+<text id="4" col="4" owner="Jess"><![CDATA[De ladies zijn gearriveerd, Chaplin]]></text>
+
+<text id="5" col="1" owner="Chaplin"><![CDATA[Tof! Nou, wie wil er beginnen?]]></text>
+
+<text id="6" col="3" owner="Faith*B"><![CDATA[Ik! Ik neem je mee schoonspringen!]]></text>
+
+<text id="7" col="4" owner="Jess"><![CDATA[Mm... Mijn kamer is een bende... Zien? :)]]></text>
+
+<text id="8" col="2" owner="MC_Luther"><![CDATA[Ik moet zometeen Dj-en...]]></text>
+
+</scene>
+
+
+
+<scene id="3">
+
+<text id="1" col="6" owner="Boomerang"><![CDATA[Wrrrhoef!! waf waf...]]></text>
+
+<text id="2" col="4" owner="Jess"><![CDATA[Hallo Boomerang, lieffie!]]></text>
+
+<text id="3" col="4" owner="Jess"><![CDATA[Welkom in mijn crib. 100% mijn style! :)]]></text>
+
+<text id="4" col="1" owner="Chaplin"><![CDATA[Knus! En euh... best netjes *ahum*]]></text>
+
+<text id="5" col="1" owner="Chaplin"><![CDATA[Cool! Habbo Cola!]]></text>
+
+<text id="6" col="4" owner="Jess"><![CDATA[Neem maar, Chaps, het staat ervoor]]></text>
+
+<text id="7" col="1" owner="Chaplin"><![CDATA[Hey, Waar heb je dat tech-ding verstopt?]]></text>
+
+<text id="8" col="4" owner="Jess"><![CDATA[Mm... effe mijn hand checken]]></text>
+
+<text id="9" col="4" owner="Jess"><![CDATA[Daar. Een kudde Habbo Rollers]]></text>
+
+<text id="10" col="1" owner="Chaplin"><![CDATA[Cool :)]]></text>
+
+<text id="11" col="4" owner="Jess"><![CDATA[Gewonnen in een race :)]]></text>
+
+<text id="12" col="4" owner="Jess"><![CDATA[Effe rollen op de laatste Smiling Headbangerz’ single]]></text>
+
+<text id="13" col="6" owner="Boomerang"><![CDATA[Whoeff!]]></text>
+
+<text id="14" col="4" owner="Jess"><![CDATA[Roll 'n Rock... Jeeuh!]]></text>
+
+<text id="15" col="1" owner="Chaplin"><![CDATA[Habb-core!]]></text>
+
+<text id="16" col="1" owner="Chaplin"><![CDATA[Komop Boomie, meedoen!]]></text>
+
+<text id="17" col="6" owner="Boomerang"><![CDATA[Aoeoeoeoeh!]]></text>
+
+<text id="18" col="1" owner="Chaplin"><![CDATA[Suffe hond, suf...]]></text>
+
+<text id="19" col="1" owner="Chaplin"><![CDATA[*is duizelig*]]></text>
+
+<text id="20" col="1" owner="Chaplin"><![CDATA[Woh! Mijn maag is niet zo sterk :(]]></text>
+
+<text id="21" col="4" owner="Jess"><![CDATA[Je bent een watje, hahaha :)]]></text>
+
+<text id="22" col="4" owner="Jess"><![CDATA[Maar euh, Chaps, ik moet gaan...]]></text>
+
+<text id="23" col="4" owner="Jess"><![CDATA[Hé daar! Hoop dat je je vermaakt hebt!]]></text>
+
+<text id="24" col="4" owner="Jess"><![CDATA[Ik kom graag 'ns in jouw kamer langs :)]]></text>
+
+<text id="25" col="4" owner="Jess"><![CDATA[Doei!]]></text>
+
+<text id="26" col="1" owner="Chaplin"><![CDATA[Thanks Jess! :)]]></text>
+
+<text id="27" col="1" owner="Chaplin"><![CDATA[Zo, wil je inchecken en je eigen Habbo maken?]]></text>
+
+<text id="28" col="1" owner="Chaplin"><![CDATA[Klik dan op de teleport]]></text>
+
+<text id="29" col="1" owner="Chaplin"><![CDATA[Je kunt ook verder met de rondleiding]]></text>
+
+</scene>
+
+
+
+<scene id="4">
+
+<text id="1" col="1" owner="Chaplin"><![CDATA[Yo! MC_Luther, je kamer is vol, man!]]></text> 
+
+<text id="2" col="2" owner="MC_Luther"><![CDATA[Tuurlijk! Ben je d'r klaar voor?]]></text> 
+
+<text id="3" col="2" owner="MC_Luther"><![CDATA[Party people in da house!!]]></text> 
+
+<text id="4" col="6" owner="AlienXYZ"><![CDATA[Cool room! Greetings from Fiji Islands!]]></text> 
+
+<text id="5" col="2" owner="MC_Luther"><![CDATA[W00T! Hier gebeurt het!]]></text>
+
+<text id="6" col="2" owner="MC_Luther"><![CDATA[Luitjes, zeg ff hoi tegen Chap en z'n vriend!]]></text>
+
+<text id="7" col="5" owner="Mickey!!"><![CDATA[Hoooi!]]></text>
+
+<text id="8" col="3" owner="Liz14"><![CDATA[Hallo allemaal!]]></text>
+
+<text id="9" col="1" owner="Chaplin"><![CDATA[Tss, ik wil een kerstboom - geen techno :)]]></text>
+
+<text id="10" col="3" owner="Liz14"><![CDATA[:O]]></text>
+
+<text id="11" col="4" owner="EvelineZ"><![CDATA[:O!]]></text>
+
+<text id="12" col="2" owner="MC_Luther"><![CDATA[Aaargh! Chap, niet aan mijn draaitafel zitten!]]></text> 
+
+<text id="13" col="2" owner="MC_Luther"><![CDATA[Geen stress, we gaan wel rappen]]></text> 
+
+<text id="14" col="1" owner="Chaplin"><![CDATA[Ik ben er klaar voor!]]></text> 
+
+<text id="15" col="2" owner="MC_Luther"><![CDATA[Ik ben de online dj en ik draai me suf]]></text>
+
+<text id="16" col="4" owner="EvelineZ"><![CDATA[Yo, je maakt een vet feest, en dat is geen bluf]]></text>
+
+<text id="17" col="2" owner="MC_Luther"><![CDATA[Yeah, we zijn hier voor de pret, om te chillen en te dollen]]></text> 
+
+<text id="18" col="7" owner=".:Janina:."><![CDATA[Dat kun jij wel zeggen, maar ik laat mijn Credits rollen]]></text> 
+
+<text id="19" col="2" owner="MC_Luther"><![CDATA[Oh baby jij bent koud, als je alleen van meubi houdt]]></text> 
+
+<text id="20" col="5" owner="Mickey!!"><![CDATA[Ben je geen toffe peer, zien we je liever niet meer]]></text> 
+
+<text id="21" col="1" owner="Chaplin"><![CDATA[Ik ga hier zo uit mijn pan, ik kwijl ervan. LOL!!! :)]]></text> 
+
+<text id="22" col="1" owner="Chaplin"><![CDATA[Maar goed, tijd om te gaan]]></text> 
+
+<text id="23" col="1" owner="Chaplin"><![CDATA[Plop naar binnen, via de teleport]]></text> 
+
+<text id="24" col="1" owner="Chaplin"><![CDATA[Je kunt ook verder met de rondleiding]]></text>
+
+</scene>
+
+
+
+<scene id="5">
+
+<text id="1" col="5" owner="Bomb-Diver"><![CDATA[HABBOOOOOM!]]></text>
+
+<text id="2" col="1" owner="Chaplin"><![CDATA[Eng! Ik durf nooit van de hoge duikplank]]></text> 
+
+<text id="3" col="3" owner="Faith*B"><![CDATA[Doe niet zo raar, da's juist de kick!]]></text> 
+
+<text id="4" col="3" owner="Faith*B"><![CDATA[Ik doe niets liever :)]]></text> 
+
+<text id="5" col="1" owner="Chaplin"><![CDATA[Ik duik liever in een boek :)]]></text> 
+
+<text id="6" col="3" owner="Faith*B"><![CDATA[Goed kijken allemaal]]></text> 
+
+<text id="7" col="3" owner="Faith*B"><![CDATA[Ik ben blond, maar dat is juist mijn talent!]]></text> 
+
+<text id="8" col="3" owner="Faith*B"><![CDATA[Daar ga ik!]]></text> 
+
+<text id="9" col="6" owner="Jenny16"><![CDATA[Splash-tastic!]]></text>
+
+<text id="10" col="5" owner="LucasDR"><![CDATA[Je slaat in als bliksem, schatje!!]]></text> 
+
+<text id="11" col="3" owner="Faith*B"><![CDATA[Ben je jaloers, hihihi :)]]></text>
+
+<text id="12" col="3" owner="Faith*B"><![CDATA[En wat vond jij, Chap?]]></text>
+
+<text id="13" col="1" owner="Chaplin"><![CDATA[Adembenemend :)]]></text>
+
+<text id="14" col="3" owner="Faith*B"><![CDATA[Cool! Maar ik verveel me...]]></text>
+
+<text id="15" col="3" owner="Faith*B"><![CDATA[Wie gaat mee naar mijn modellenwedstrijd?]]></text> 
+
+<text id="16" col="4" owner="Angela91"><![CDATA[Jaaaah!!]]></text>
+
+<text id="17" col="6" owner="HugoSanchez"><![CDATA[Ik! Ik ben een model-Habbo ;)]]></text> 
+
+<text id="18" col="3" owner="Faith*B"><![CDATA[Okay, zie je daar]]></text> 
+
+<text id="19" col="2" owner="CoolDude"><![CDATA[Iedereen is een ster!!]]></text> 
+
+<text id="20" col="5" owner="Lally"><![CDATA[*Bling bling*]]></text> 
+
+<text id="21" col="1" owner="Chaplin"><![CDATA[En ineens is iedereen weg]]></text> 
+
+<text id="22" col="1" owner="Chaplin"><![CDATA[Habbo's zijn ZO ongeduldig]]></text> 
+
+<text id="23" col="2" owner="Loo-nely Habbo"><![CDATA[Huh? Waar zijn ze? Ik was op het toilet...]]></text> 
+
+<text id="24" col="2" owner="Loo-nely Habbo"><![CDATA[Waaachtt... Ik wil ook feesten!]]></text> 
+
+<text id="25" col="1" owner="Chaplin"><![CDATA[Ja, precies :)]]></text> 
+
+<text id="26" col="1" owner="Chaplin"><![CDATA[Wil je een duik nemen in het Hotel?]]></text> 
+
+<text id="27" col="1" owner="Chaplin"><![CDATA[Klik dan op de eend]]></text> 
+
+<text id="28" col="1" owner="Chaplin"><![CDATA[Je kunt ook verder met de rondleiding]]></text>
+
+</scene>
+
+
+
+<scene id="6">
+
+<text id="1" col="1" owner="Chaplin"><![CDATA[Je hebt een stukje Habbo gezien...]]></text>
+
+<text id="2" col="1" owner="Chaplin"><![CDATA[...maar het echte werk wacht binnen op je!!]]></text>
+
+<text id="3" col="1" owner="Chaplin"><![CDATA[Het is heel eenvoudig]]></text>
+
+<text id="4" col="1" owner="Chaplin"><![CDATA[Klik maar op de Check In knop...]]></text>
+
+<text id="5" col="1" owner="Chaplin"><![CDATA[...maak je eigen Habbo...]]></text>
+
+<text id="6" col="1" owner="Chaplin"><![CDATA[...gebruik de Navigator om je te bewegen en een kamer te maken...]]></text>
+
+<text id="7" col="1" owner="Chaplin"><![CDATA[...en de Console om contact te houden met je vrienden]]></text>
+
+<text id="8" col="1" owner="Chaplin"><![CDATA[Verder ligt de Habbo wereld voor je open]]></text>
+
+<text id="9" col="1" owner="Chaplin"><![CDATA[En ik?]]></text>
+
+<text id="10" col="1" owner="Chaplin"><![CDATA[Na dit avontuur moet ik even rusten...]]></text>
+
+<text id="11" col="1" owner="Chaplin"><![CDATA[...en dromen]]></text>
+
+<text id="12" col="1" owner="Chaplin"><![CDATA[Veel plezier in het Habbo Hotel]]></text>
+
+<text id="13" col="1" owner="Chaplin"><![CDATA[Tot zienszzzzzz...]]></text>
+
+</scene>
+
+
+
+<scene id="99">
+
+<text id="1" col="1" owner="Chaplin"><![CDATA[Of volg mij tot het eind]]></text>
+
+</scene>
+
+
+
+</d>
+
+
+
+
+
+
+
+
+
+
+
