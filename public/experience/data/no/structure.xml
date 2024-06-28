@@ -1,146 +1,292 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
-
-<d>
-	
-<scene id="1">
-<text id="1" col="1" owner="Chaplin"><![CDATA[ZZZzzz...]]></text>
-<text id="2" col="1" owner="Chaplin"><![CDATA[ZZzz...arf...grynt! Hvem der?!]]></text>
-<text id="3" col="1" owner="Chaplin"><![CDATA[Ah...Er det deg.]]></text>
-<text id="4" col="1" owner="Chaplin"><![CDATA[Hei! jeg heter Chaplin.]]></text>
-<text id="5" col="1" owner="Chaplin"><![CDATA[Du har kanskje ikke laget din egen Habbofigur enda?]]></text>
-<text id="6" col="1" owner="Chaplin"><![CDATA[En  Habbo som meg, mener jeg :)]]></text>
-<text id="7" col="1" owner="Chaplin"><![CDATA[Ok, bli med meg.]]></text>
-<text id="8" col="2" owner="Frank"><![CDATA[Velkommen til Habbo Hotel, Mister! Ha et trivelig opphold.]]></text>
-<text id="9" col="1" owner="Chaplin"><![CDATA[Åh, takk for det, det er mitt ELLEVTE besøk denne uken :)]]></text>
-</scene>
-
-<scene id="2">
-<text id="1" col="1" owner="Chaplin"><![CDATA[Hi, MC_Råner! Du kom først, gitt.]]></text>
-<text id="2" col="2" owner="MC_Råner"><![CDATA[Hva skjer'a, Chap? Fikk mld din… Og her er jeg!]]></text>
-<text id="3" col="2" owner="MC_Råner"><![CDATA[Halla! Velkommen til Habbo Hotel!]]></text>
-<text id="4" col="4" owner="Leenda"><![CDATA[Jente-kommandoen er klar og i posisjon, Chaplin!]]></text>
-<text id="5" col="1" owner="Chaplin"><![CDATA[Herlig! Hvor drar vi først?]]></text>
-<text id="6" col="3" owner="Luna*B"><![CDATA[Til meg! Jeg skal stupe i Bassenget!]]></text>
-<text id="7" col="4" owner="Leenda"><![CDATA[Mm... Jeg har som vanlig roterommet mitt :)]]></text>
-<text id="8" col="2" owner="MC_Råner"><![CDATA[Jeg skal snart være DJ, jeg.]]></text>
-</scene>
-
-<scene id="3">
-<text id="1" col="6" owner="Boomerang"><![CDATA[Weeey!! Vof voff...]]></text>
-<text id="2" col="4" owner="Leenda"><![CDATA[Heeei Boomerang, jenta mi.]]></text>
-<text id="3" col="4" owner="Leenda"><![CDATA[Velkommen til "the place", hihi! Jeg har stått for innredningen :)]]></text>
-<text id="4" col="1" owner="Chaplin"><![CDATA[Så koselig'a! Og... nesten rent :)]]></text>
-<text id="5" col="1" owner="Chaplin"><![CDATA[Drikke! Habbo Cola!]]></text>
-<text id="6" col="4" owner="Leenda"><![CDATA[Bare ta, Chap. Jeg spanderer.]]></text>
-<text id="7" col="1" owner="Chaplin"><![CDATA[Du, hvor har du gjort av "karusellen" din?]]></text>
-<text id="8" col="4" owner="Leenda"><![CDATA[Hm... skal vi se hva jeg har gjemt i Hånden min.]]></text>
-<text id="9" col="4" owner="Leenda"><![CDATA[Her, ja. Habbo Rollere i massevis!]]></text>
-<text id="10" col="1" owner="Chaplin"><![CDATA[Fett :)]]></text>
-<text id="11" col="4" owner="Leenda"><![CDATA[Jeg vant dem i et super-race :)]]></text>
-<text id="12" col="4" owner="Leenda"><![CDATA[Kom igjen, rull i vei med den nye singlen til "Headbangers".]]></text>
-<text id="13" col="6" owner="Boomerang"><![CDATA[Voooff!]]></text>
-<text id="14" col="4" owner="Leenda"><![CDATA[Roll&Rock... Yuhuu!]]></text>
-<text id="15" col="1" owner="Chaplin"><![CDATA[Habb-core!]]></text>
-<text id="16" col="1" owner="Chaplin"><![CDATA[Kom igjen, Bomme, heng deg på!]]></text>
-<text id="17" col="6" owner="Boomerang"><![CDATA[Auuooo!]]></text>
-<text id="18" col="1" owner="Chaplin"><![CDATA[Pinglebikkje, pingle...]]></text>
-<text id="19" col="1" owner="Chaplin"><![CDATA[*Svimmel*]]></text>
-<text id="20" col="1" owner="Chaplin"><![CDATA[Ugh! Tror jeg har en svak mage for dette :(]]></text>
-<text id="21" col="4" owner="Leenda"><![CDATA[Haha... Fløtepus :)]]></text>
-<text id="22" col="4" owner="Leenda"><![CDATA[Uansett, jeg må stikke, Chap.]]></text>
-<text id="23" col="4" owner="Leenda"><![CDATA[Helluen! Håper du likte rommet mitt.]]></text>
-<text id="24" col="4" owner="Leenda"><![CDATA[Jeg gleder meg til å komme på besøk til ditt snart :)]]></text>
-<text id="25" col="4" owner="Leenda"><![CDATA[Ha det bra!]]></text>
-<text id="26" col="1" owner="Chaplin"><![CDATA[Takk, Leenda! :)]]></text>
-<text id="27" col="1" owner="Chaplin"><![CDATA[Ok, kjære venn. Sjekke inn og lage din egen Habbo, eller?]]></text>
-<text id="28" col="1" owner="Chaplin"><![CDATA[Bare klikk på Telefonboksen.]]></text>
-<text id="29" col="1" owner="Chaplin"><![CDATA[Eller du kan bli med videre på omvisning.]]></text>
-</scene>
-
-
-
-
-<scene id="4">
-<text id="1" col="1" owner="Chaplin"><![CDATA[Oi! MC_Råner, i dag var det mye folk her!]]></text> 
-<text id="2" col="2" owner="MC_Råner"><![CDATA[Som vanlig! Gjør dere klare...]]></text> 
-<text id="3" col="2" owner="MC_Råner"><![CDATA[Party-Party!]]></text> 
-<text id="4" col="6" owner="AlienXYZ"><![CDATA[jeg digger rommet ditt! En hilsen fra Fiji-øyene!]]></text> 
-<text id="5" col="2" owner="MC_Råner"><![CDATA[Yeah! Rett sted, til rett tid.]]></text>
-<text id="6" col="2" owner="MC_Råner"><![CDATA[Habboer, skål til Chaplin og vennen hans!]]></text>
-<text id="7" col="5" owner="Micke!!"><![CDATA[Skååål!]]></text>
-<text id="8" col="3" owner="Liz14"><![CDATA[Skåååål, alle sammen!]]></text>
-<text id="9" col="1" owner="Chaplin"><![CDATA[Hehe, jeg foretrekker Juletrær til Techno :)]]></text>
-<text id="10" col="3" owner="Liz14"><![CDATA[:O]]></text>
-<text id="11" col="4" owner="EvelineZ"><![CDATA[:O!]]></text>
-<text id="12" col="2" owner="MC_Råner"><![CDATA[Argh! Chap, IKKE kødd med stereoen min!]]></text> 
-<text id="13" col="2" owner="MC_Råner"><![CDATA[Meeen, ikke no stress, vi drar en liten "rappekonk".]]></text> 
-<text id="14" col="1" owner="Chaplin"><![CDATA[Da begynner jeg, for jeg er kongen av alle...]]></text> 
-<text id="15" col="2" owner="MC_Råner"><![CDATA[Ha! Det kan du tro, du står på kanten og vil falle! ]]></text>
-<text id="16" col="4" owner="EvelineZ"><![CDATA[Vel, dere tror dere er no, men det er jeg som ruler...]]></text>
-<text id="17" col="2" owner="MC_Råner"><![CDATA[Jadda, baby, men jeg er ulven som uler... *Aoowwwuuu*]]></text> 
-<text id="18" col="7" owner=".:Janina:."><![CDATA[Snakk for deg selv, jeg digger møbler og stæsh!]]></text> 
-<text id="19" col="2" owner="MC_Råner"><![CDATA[Åh, din lille materialist, sett deg på doen og b***]]></text> 
-<text id="20" col="5" owner="Mickey!!"><![CDATA[En for alle, alle for en! Jeg liker deg, .:Janina:. og syns du er PEN!]]></text> 
-<text id="21" col="1" owner="Chaplin"><![CDATA[Denne gjengen rocker, jeg sikler nesten :)]]></text> 
-<text id="22" col="1" owner="Chaplin"><![CDATA[Men uansett, vi må forlate festen...]]></text> 
-<text id="23" col="1" owner="Chaplin"><![CDATA[Vil du sjekke inn nå? Bare klikk på Teleporten.]]></text> 
-<text id="24" col="1" owner="Chaplin"><![CDATA[Eller du kan bli med meg videre.]]></text>
-</scene>
-
-<scene id="5">
-<text id="1" col="5" owner="Bomb-Dykker"><![CDATA[HABBOOOOOM!]]></text>
-<text id="2" col="1" owner="Chaplin"><![CDATA[Whææ! Jeg hadde aldri turt å falle fritt 30 meter.]]></text> 
-<text id="3" col="3" owner="Luna*B"><![CDATA[Åh, kom igjen, det er jo litt av spenningen!]]></text> 
-<text id="4" col="3" owner="Luna*B"><![CDATA[Jeg ELSKER det :)]]></text> 
-<text id="5" col="1" owner="Chaplin"><![CDATA[Og jeg ELSKER en liten svømmetur :)]]></text> 
-<text id="6" col="3" owner="Luna*B"><![CDATA[Et øyeblikk med berømmelse...]]></text> 
-<text id="7" col="3" owner="Luna*B"><![CDATA[Blondiner har ikke bare utseende! Dette krever talent.]]></text> 
-<text id="8" col="3" owner="Luna*B"><![CDATA[Og... løp pååååå...]]></text> 
-<text id="9" col="6" owner="Jenny16"><![CDATA[Splæsh-tastik!]]></text>
-<text id="10" col="5" owner="LukasDR"><![CDATA[You light my fire, baby!]]></text> 
-<text id="11" col="3" owner="Luna*B"><![CDATA[Hopp i havet, dummen :)]]></text>
-<text id="12" col="3" owner="Luna*B"><![CDATA[Nå, hva syns du, Chap?]]></text>
-<text id="13" col="1" owner="Chaplin"><![CDATA[Det finnes ikke ord :)]]></text>
-<text id="14" col="3" owner="Luna*B"><![CDATA[Hihi! Men nå må jeg gjøre noe annet...]]></text>
-<text id="15" col="3" owner="Luna*B"><![CDATA[Alle sammen: Bli med på Catwalk-Party?]]></text> 
-<text id="16" col="4" owner="Angela91"><![CDATA[Jaaaaa!]]></text>
-<text id="17" col="6" owner="HugoSanchez"><![CDATA[Jeg er den fødte modell!]]></text> 
-<text id="18" col="3" owner="Luna*B"><![CDATA[Ok, bare dra til mitt rom, da!]]></text> 
-<text id="19" col="2" owner="KulKis"><![CDATA[Alle er superstjerner!]]></text> 
-<text id="20" col="5" owner="Lally"><![CDATA[Bling bling!]]></text> 
-<text id="21" col="1" owner="Chaplin"><![CDATA[Wow, det ble kjapt tomt her, ass!]]></text> 
-<text id="22" col="1" owner="Chaplin"><![CDATA[Habboer kan være SÅ rastløse.]]></text> 
-<text id="23" col="2" owner="Loo-nelly Habbo"><![CDATA[Argh, hva skjedde? Jeg var jo bare på do...]]></text> 
-<text id="24" col="2" owner="Loo-nelly Habbo"><![CDATA[Veeeent... jeg vil også bli med!]]></text> 
-<text id="25" col="1" owner="Chaplin"><![CDATA[Yup. Nemlig :)]]></text> 
-<text id="26" col="1" owner="Chaplin"><![CDATA[Nå, har du lyst på en dukkert på Habbo Hotel?]]></text> 
-<text id="27" col="1" owner="Chaplin"><![CDATA[Bare klikk på denne Badeanden.]]></text> 
-<text id="28" col="1" owner="Chaplin"><![CDATA[Eller så kan du fortsette på omvisningen.]]></text>
-</scene>
-
-<scene id="6">
-<text id="1" col="1" owner="Chaplin"><![CDATA[Nå har du fått en smakebit av Habbo Hotel...]]></text>
-<text id="2" col="1" owner="Chaplin"><![CDATA[ ...Men de EKTE sakene venter på deg på innsiden!!]]></text>
-<text id="3" col="1" owner="Chaplin"><![CDATA[Det er et rimelig simpelt opplegg.]]></text>
-<text id="4" col="1" owner="Chaplin"><![CDATA[Bare klikk på 'Sjekk inn' knappen...]]></text>
-<text id="5" col="1" owner="Chaplin"><![CDATA[...Lag din egen Habbo...]]></text>
-<text id="6" col="1" owner="Chaplin"><![CDATA[...Bruk Navigatoren til å bevege deg rundt og lage egne rom...]]></text>
-<text id="7" col="1" owner="Chaplin"><![CDATA[...Og Konsollen til å søke etter venner på.]]></text>
-<text id="8" col="1" owner="Chaplin"><![CDATA[Resten vil du kjapt finne ut av!]]></text>
-<text id="9" col="1" owner="Chaplin"><![CDATA[Hva med meg, sier du?]]></text>
-<text id="10" col="1" owner="Chaplin"><![CDATA[Vel, etter denne runden skal jeg bare chille'n litt...]]></text>
-<text id="11" col="1" owner="Chaplin"><![CDATA[...og drømme litt :)]]></text>
-<text id="12" col="1" owner="Chaplin"><![CDATA[Så jeg ser deg senere på Habbo Hotel.]]></text>
-<text id="13" col="1" owner="Chaplin"><![CDATA[Ser deg deeeer...]]></text>
-</scene>
-
-<scene id="99">
-<text id="1" col="1" owner="Chaplin"><![CDATA[Bli med meg helt til slutten.]]></text>
-</scene>
-
-</d>
-
-
-
-
-
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+
+
+<d>
+
+	
+
+<scene id="1">
+
+<text id="1" col="1" owner="Chaplin"><![CDATA[ZZZzzz...]]></text>
+
+<text id="2" col="1" owner="Chaplin"><![CDATA[ZZzz...arf...grynt! Hvem der?!]]></text>
+
+<text id="3" col="1" owner="Chaplin"><![CDATA[Ah...Er det deg.]]></text>
+
+<text id="4" col="1" owner="Chaplin"><![CDATA[Hei! jeg heter Chaplin.]]></text>
+
+<text id="5" col="1" owner="Chaplin"><![CDATA[Du har kanskje ikke laget din egen Habbofigur enda?]]></text>
+
+<text id="6" col="1" owner="Chaplin"><![CDATA[En  Habbo som meg, mener jeg :)]]></text>
+
+<text id="7" col="1" owner="Chaplin"><![CDATA[Ok, bli med meg.]]></text>
+
+<text id="8" col="2" owner="Frank"><![CDATA[Velkommen til Habbo Hotel, Mister! Ha et trivelig opphold.]]></text>
+
+<text id="9" col="1" owner="Chaplin"><![CDATA[Åh, takk for det, det er mitt ELLEVTE besøk denne uken :)]]></text>
+
+</scene>
+
+
+
+<scene id="2">
+
+<text id="1" col="1" owner="Chaplin"><![CDATA[Hi, MC_Råner! Du kom først, gitt.]]></text>
+
+<text id="2" col="2" owner="MC_Råner"><![CDATA[Hva skjer'a, Chap? Fikk mld din… Og her er jeg!]]></text>
+
+<text id="3" col="2" owner="MC_Råner"><![CDATA[Halla! Velkommen til Habbo Hotel!]]></text>
+
+<text id="4" col="4" owner="Leenda"><![CDATA[Jente-kommandoen er klar og i posisjon, Chaplin!]]></text>
+
+<text id="5" col="1" owner="Chaplin"><![CDATA[Herlig! Hvor drar vi først?]]></text>
+
+<text id="6" col="3" owner="Luna*B"><![CDATA[Til meg! Jeg skal stupe i Bassenget!]]></text>
+
+<text id="7" col="4" owner="Leenda"><![CDATA[Mm... Jeg har som vanlig roterommet mitt :)]]></text>
+
+<text id="8" col="2" owner="MC_Råner"><![CDATA[Jeg skal snart være DJ, jeg.]]></text>
+
+</scene>
+
+
+
+<scene id="3">
+
+<text id="1" col="6" owner="Boomerang"><![CDATA[Weeey!! Vof voff...]]></text>
+
+<text id="2" col="4" owner="Leenda"><![CDATA[Heeei Boomerang, jenta mi.]]></text>
+
+<text id="3" col="4" owner="Leenda"><![CDATA[Velkommen til "the place", hihi! Jeg har stått for innredningen :)]]></text>
+
+<text id="4" col="1" owner="Chaplin"><![CDATA[Så koselig'a! Og... nesten rent :)]]></text>
+
+<text id="5" col="1" owner="Chaplin"><![CDATA[Drikke! Habbo Cola!]]></text>
+
+<text id="6" col="4" owner="Leenda"><![CDATA[Bare ta, Chap. Jeg spanderer.]]></text>
+
+<text id="7" col="1" owner="Chaplin"><![CDATA[Du, hvor har du gjort av "karusellen" din?]]></text>
+
+<text id="8" col="4" owner="Leenda"><![CDATA[Hm... skal vi se hva jeg har gjemt i Hånden min.]]></text>
+
+<text id="9" col="4" owner="Leenda"><![CDATA[Her, ja. Habbo Rollere i massevis!]]></text>
+
+<text id="10" col="1" owner="Chaplin"><![CDATA[Fett :)]]></text>
+
+<text id="11" col="4" owner="Leenda"><![CDATA[Jeg vant dem i et super-race :)]]></text>
+
+<text id="12" col="4" owner="Leenda"><![CDATA[Kom igjen, rull i vei med den nye singlen til "Headbangers".]]></text>
+
+<text id="13" col="6" owner="Boomerang"><![CDATA[Voooff!]]></text>
+
+<text id="14" col="4" owner="Leenda"><![CDATA[Roll&Rock... Yuhuu!]]></text>
+
+<text id="15" col="1" owner="Chaplin"><![CDATA[Habb-core!]]></text>
+
+<text id="16" col="1" owner="Chaplin"><![CDATA[Kom igjen, Bomme, heng deg på!]]></text>
+
+<text id="17" col="6" owner="Boomerang"><![CDATA[Auuooo!]]></text>
+
+<text id="18" col="1" owner="Chaplin"><![CDATA[Pinglebikkje, pingle...]]></text>
+
+<text id="19" col="1" owner="Chaplin"><![CDATA[*Svimmel*]]></text>
+
+<text id="20" col="1" owner="Chaplin"><![CDATA[Ugh! Tror jeg har en svak mage for dette :(]]></text>
+
+<text id="21" col="4" owner="Leenda"><![CDATA[Haha... Fløtepus :)]]></text>
+
+<text id="22" col="4" owner="Leenda"><![CDATA[Uansett, jeg må stikke, Chap.]]></text>
+
+<text id="23" col="4" owner="Leenda"><![CDATA[Helluen! Håper du likte rommet mitt.]]></text>
+
+<text id="24" col="4" owner="Leenda"><![CDATA[Jeg gleder meg til å komme på besøk til ditt snart :)]]></text>
+
+<text id="25" col="4" owner="Leenda"><![CDATA[Ha det bra!]]></text>
+
+<text id="26" col="1" owner="Chaplin"><![CDATA[Takk, Leenda! :)]]></text>
+
+<text id="27" col="1" owner="Chaplin"><![CDATA[Ok, kjære venn. Sjekke inn og lage din egen Habbo, eller?]]></text>
+
+<text id="28" col="1" owner="Chaplin"><![CDATA[Bare klikk på Telefonboksen.]]></text>
+
+<text id="29" col="1" owner="Chaplin"><![CDATA[Eller du kan bli med videre på omvisning.]]></text>
+
+</scene>
+
+
+
+
+
+
+
+
+
+<scene id="4">
+
+<text id="1" col="1" owner="Chaplin"><![CDATA[Oi! MC_Råner, i dag var det mye folk her!]]></text> 
+
+<text id="2" col="2" owner="MC_Råner"><![CDATA[Som vanlig! Gjør dere klare...]]></text> 
+
+<text id="3" col="2" owner="MC_Råner"><![CDATA[Party-Party!]]></text> 
+
+<text id="4" col="6" owner="AlienXYZ"><![CDATA[jeg digger rommet ditt! En hilsen fra Fiji-øyene!]]></text> 
+
+<text id="5" col="2" owner="MC_Råner"><![CDATA[Yeah! Rett sted, til rett tid.]]></text>
+
+<text id="6" col="2" owner="MC_Råner"><![CDATA[Habboer, skål til Chaplin og vennen hans!]]></text>
+
+<text id="7" col="5" owner="Micke!!"><![CDATA[Skååål!]]></text>
+
+<text id="8" col="3" owner="Liz14"><![CDATA[Skåååål, alle sammen!]]></text>
+
+<text id="9" col="1" owner="Chaplin"><![CDATA[Hehe, jeg foretrekker Juletrær til Techno :)]]></text>
+
+<text id="10" col="3" owner="Liz14"><![CDATA[:O]]></text>
+
+<text id="11" col="4" owner="EvelineZ"><![CDATA[:O!]]></text>
+
+<text id="12" col="2" owner="MC_Råner"><![CDATA[Argh! Chap, IKKE kødd med stereoen min!]]></text> 
+
+<text id="13" col="2" owner="MC_Råner"><![CDATA[Meeen, ikke no stress, vi drar en liten "rappekonk".]]></text> 
+
+<text id="14" col="1" owner="Chaplin"><![CDATA[Da begynner jeg, for jeg er kongen av alle...]]></text> 
+
+<text id="15" col="2" owner="MC_Råner"><![CDATA[Ha! Det kan du tro, du står på kanten og vil falle! ]]></text>
+
+<text id="16" col="4" owner="EvelineZ"><![CDATA[Vel, dere tror dere er no, men det er jeg som ruler...]]></text>
+
+<text id="17" col="2" owner="MC_Råner"><![CDATA[Jadda, baby, men jeg er ulven som uler... *Aoowwwuuu*]]></text> 
+
+<text id="18" col="7" owner=".:Janina:."><![CDATA[Snakk for deg selv, jeg digger møbler og stæsh!]]></text> 
+
+<text id="19" col="2" owner="MC_Råner"><![CDATA[Åh, din lille materialist, sett deg på doen og b***]]></text> 
+
+<text id="20" col="5" owner="Mickey!!"><![CDATA[En for alle, alle for en! Jeg liker deg, .:Janina:. og syns du er PEN!]]></text> 
+
+<text id="21" col="1" owner="Chaplin"><![CDATA[Denne gjengen rocker, jeg sikler nesten :)]]></text> 
+
+<text id="22" col="1" owner="Chaplin"><![CDATA[Men uansett, vi må forlate festen...]]></text> 
+
+<text id="23" col="1" owner="Chaplin"><![CDATA[Vil du sjekke inn nå? Bare klikk på Teleporten.]]></text> 
+
+<text id="24" col="1" owner="Chaplin"><![CDATA[Eller du kan bli med meg videre.]]></text>
+
+</scene>
+
+
+
+<scene id="5">
+
+<text id="1" col="5" owner="Bomb-Dykker"><![CDATA[HABBOOOOOM!]]></text>
+
+<text id="2" col="1" owner="Chaplin"><![CDATA[Whææ! Jeg hadde aldri turt å falle fritt 30 meter.]]></text> 
+
+<text id="3" col="3" owner="Luna*B"><![CDATA[Åh, kom igjen, det er jo litt av spenningen!]]></text> 
+
+<text id="4" col="3" owner="Luna*B"><![CDATA[Jeg ELSKER det :)]]></text> 
+
+<text id="5" col="1" owner="Chaplin"><![CDATA[Og jeg ELSKER en liten svømmetur :)]]></text> 
+
+<text id="6" col="3" owner="Luna*B"><![CDATA[Et øyeblikk med berømmelse...]]></text> 
+
+<text id="7" col="3" owner="Luna*B"><![CDATA[Blondiner har ikke bare utseende! Dette krever talent.]]></text> 
+
+<text id="8" col="3" owner="Luna*B"><![CDATA[Og... løp pååååå...]]></text> 
+
+<text id="9" col="6" owner="Jenny16"><![CDATA[Splæsh-tastik!]]></text>
+
+<text id="10" col="5" owner="LukasDR"><![CDATA[You light my fire, baby!]]></text> 
+
+<text id="11" col="3" owner="Luna*B"><![CDATA[Hopp i havet, dummen :)]]></text>
+
+<text id="12" col="3" owner="Luna*B"><![CDATA[Nå, hva syns du, Chap?]]></text>
+
+<text id="13" col="1" owner="Chaplin"><![CDATA[Det finnes ikke ord :)]]></text>
+
+<text id="14" col="3" owner="Luna*B"><![CDATA[Hihi! Men nå må jeg gjøre noe annet...]]></text>
+
+<text id="15" col="3" owner="Luna*B"><![CDATA[Alle sammen: Bli med på Catwalk-Party?]]></text> 
+
+<text id="16" col="4" owner="Angela91"><![CDATA[Jaaaaa!]]></text>
+
+<text id="17" col="6" owner="HugoSanchez"><![CDATA[Jeg er den fødte modell!]]></text> 
+
+<text id="18" col="3" owner="Luna*B"><![CDATA[Ok, bare dra til mitt rom, da!]]></text> 
+
+<text id="19" col="2" owner="KulKis"><![CDATA[Alle er superstjerner!]]></text> 
+
+<text id="20" col="5" owner="Lally"><![CDATA[Bling bling!]]></text> 
+
+<text id="21" col="1" owner="Chaplin"><![CDATA[Wow, det ble kjapt tomt her, ass!]]></text> 
+
+<text id="22" col="1" owner="Chaplin"><![CDATA[Habboer kan være SÅ rastløse.]]></text> 
+
+<text id="23" col="2" owner="Loo-nelly Habbo"><![CDATA[Argh, hva skjedde? Jeg var jo bare på do...]]></text> 
+
+<text id="24" col="2" owner="Loo-nelly Habbo"><![CDATA[Veeeent... jeg vil også bli med!]]></text> 
+
+<text id="25" col="1" owner="Chaplin"><![CDATA[Yup. Nemlig :)]]></text> 
+
+<text id="26" col="1" owner="Chaplin"><![CDATA[Nå, har du lyst på en dukkert på Habbo Hotel?]]></text> 
+
+<text id="27" col="1" owner="Chaplin"><![CDATA[Bare klikk på denne Badeanden.]]></text> 
+
+<text id="28" col="1" owner="Chaplin"><![CDATA[Eller så kan du fortsette på omvisningen.]]></text>
+
+</scene>
+
+
+
+<scene id="6">
+
+<text id="1" col="1" owner="Chaplin"><![CDATA[Nå har du fått en smakebit av Habbo Hotel...]]></text>
+
+<text id="2" col="1" owner="Chaplin"><![CDATA[ ...Men de EKTE sakene venter på deg på innsiden!!]]></text>
+
+<text id="3" col="1" owner="Chaplin"><![CDATA[Det er et rimelig simpelt opplegg.]]></text>
+
+<text id="4" col="1" owner="Chaplin"><![CDATA[Bare klikk på 'Sjekk inn' knappen...]]></text>
+
+<text id="5" col="1" owner="Chaplin"><![CDATA[...Lag din egen Habbo...]]></text>
+
+<text id="6" col="1" owner="Chaplin"><![CDATA[...Bruk Navigatoren til å bevege deg rundt og lage egne rom...]]></text>
+
+<text id="7" col="1" owner="Chaplin"><![CDATA[...Og Konsollen til å søke etter venner på.]]></text>
+
+<text id="8" col="1" owner="Chaplin"><![CDATA[Resten vil du kjapt finne ut av!]]></text>
+
+<text id="9" col="1" owner="Chaplin"><![CDATA[Hva med meg, sier du?]]></text>
+
+<text id="10" col="1" owner="Chaplin"><![CDATA[Vel, etter denne runden skal jeg bare chille'n litt...]]></text>
+
+<text id="11" col="1" owner="Chaplin"><![CDATA[...og drømme litt :)]]></text>
+
+<text id="12" col="1" owner="Chaplin"><![CDATA[Så jeg ser deg senere på Habbo Hotel.]]></text>
+
+<text id="13" col="1" owner="Chaplin"><![CDATA[Ser deg deeeer...]]></text>
+
+</scene>
+
+
+
+<scene id="99">
+
+<text id="1" col="1" owner="Chaplin"><![CDATA[Bli med meg helt til slutten.]]></text>
+
+</scene>
+
+
+
+</d>
+
+
+
+
+
+
+
+
+
+
+
